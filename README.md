@@ -87,3 +87,9 @@ Stale detection: `status`/search warn when files changed after indexing.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+Built by **성안컴퓨터 (SeongAn Computer)** — a neighborhood computer shop in
+South Korea that writes its own tools instead of buying them.
+More of our work at [sounganh.com](https://sounganh.com).
